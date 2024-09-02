@@ -1,6 +1,6 @@
 <?php
-$nim="E12345678";
-$nama="Budi";
+$nim="E41230312";
+$nama="Bachtiar Dwi Pramudi";
 $prodi="Teknik Informatika";
 echo "Selamat Praktikum";
 echo $nim;
